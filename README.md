@@ -33,10 +33,12 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### Data Science & ML
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
-![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+</p>
 
 `CatBoost` | `XGBoost` | `LightGBM` | `SHAP` | `Optuna` | `SciPy` | `Joblib`
 
@@ -47,8 +49,6 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-
-`Pydantic` | `Uvicorn` | `HTTPX` | `Loguru`
 
 ### Automation & AI
 `Prompt Engineering` | `Ollama` | `LLM Integrations` | `Google Apps Script`
