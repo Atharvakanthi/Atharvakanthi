@@ -1,21 +1,80 @@
-# Hi 👋, I'm Atharva Kanthi
+<h1 align="center">Hi 👋, I'm Atharva Kanthi</h1>
+<h3 align="center">Data Science Associate | Economics × AI × Real Estate | MSc Economics, University of Nottingham</h3>
 
-### Data Analyst in Real Estate
-
-- 🔭 I'm currently working on **Data projects in the Vacation home residential Real estate industry.**
-
-- 📫 How to reach me **atharvakanthi.study@gmail.com**
-
-- 📝 I regularly write articles on **[https://atharvamacrolensinsight.blogspot.com/](https://atharvamacrolensinsight.blogspot.com/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Atharvakanthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Atharvakanthi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-kanthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-kanthi/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-kanthi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://atharvamacrolensinsight.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+  <a href="mailto:atharvakanthi.study@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakanthi&" alt="Atharvakanthi" /></p>
+## 🧭 About Me
 
+I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and analytics systems for India's vacation home real estate market. My background bridges **quantitative economics** (MSc, University of Nottingham) with hands-on **data engineering, ML modelling, and automation**.
+
+- 🏡 Building a multi-method **Automated Valuation Model (AVM)** combining Comps, Income, Replacement Cost, and a Hedonic ML approach (Ridge baseline → CatBoost, XGBoost, LightGBM) for property price prediction across locations in India
+- 📊 Built **Looker Studio** visualization dashboards for **600+ real estate projects across 50+ cities in India**, automated via **Google Apps Script**
+- ⚙️ Automated reporting pipelines using **Google Sheets + Google Apps Script**, cutting manual processing time by 70%
+- 📝 I write about macroeconomics & data on my **[blog](https://atharvamacrolensinsight.blogspot.com/)**
+
+---
+
+## 🔧 Tech Stack
+
+### Languages & Data Tools
+![Python](https://skillicons.dev/icons?i=py)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+### Data Science & ML
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg)
+
+`CatBoost` | `XGBoost` | `LightGBM` | `SHAP` | `Optuna` | `SciPy` | `Joblib`
+
+### Visualization & BI
+`Power BI` | `Tableau` | `Looker Studio` | `Matplotlib` | `Seaborn` | `Streamlit`
+
+### Databases & Backend
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+`Pydantic` | `Uvicorn` | `HTTPX` | `Loguru`
+
+### Automation & AI
+`Prompt Engineering` | `Ollama` | `LLM Integrations` | `Google Apps Script`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 🏘️ Automated Valuation Model | Multi-method AVM: Comps, Income, Replacement Cost + Hedonic ML (Ridge → CatBoost, XGBoost, LightGBM) with SHAP explainability & Optuna tuning | Python, Scikit-learn, CatBoost, XGBoost, LightGBM, SHAP, Optuna |
+| 🗺️ Property Heatmap Engine | Geographic investment analysis across 500+ locations | Python, Looker Studio, Google Apps Script |
+| 📈 South Asia VAR Study | Macroeconomic interactions across 4 economies (1991–2023) | STATA, MATLAB, Python |
+| 📉 Exchange Rate & Growth | MSc Dissertation — cross-country exchange rate regime analysis | STATA, Econometrics |
+
+---
+
+## 🎓 Education
+
+- 🎓 **MSc Economics** — University of Nottingham *(Merit 2:1)*
+- 🎓 **BA Economics** — Mumbai University, Wilson College *(9.95 CGPI | 83% | 🏆 1st Rank in Dept)* | Haresh Gohil Memorial Prize
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakanthi&theme=default" alt="streak"/>
+</p>
