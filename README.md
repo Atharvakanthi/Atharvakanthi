@@ -75,7 +75,7 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 | 🏘️ Automated Valuation Model | Multi-method AVM: Comps, Income, Replacement Cost + Hedonic ML (Ridge → CatBoost, XGBoost, LightGBM) with SHAP explainability & Optuna tuning | Python, Scikit-learn, CatBoost, XGBoost, LightGBM, SHAP, Optuna |
 | 🗺️ Property Heatmap Engine | Geographic investment analysis across 500+ locations in India | Python, Looker Studio, Google Apps Script |
 | 📈 South Asia VAR Study | Macroeconomic interactions across 4 economies (1991–2023) | STATA, MATLAB, Python |
-| 📉 Exchange Rate & Growth | MSc Dissertation — cross-country exchange rate regime analysis | STATA, Econometrics |
+| 📉 Exchange Rate & Growth | MSc Dissertation - cross-country exchange rate regime analysis | STATA, Econometrics |
 
 ---
 
