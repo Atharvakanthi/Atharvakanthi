@@ -22,36 +22,49 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 - 🏡 Building a multi-method **Automated Valuation Model (AVM)** combining Comps, Income, Replacement Cost, and a Hedonic ML approach (Ridge baseline → CatBoost, XGBoost, LightGBM) for property price prediction across locations in India
 - 📊 Built **Looker Studio** visualization dashboards for **600+ real estate projects across 50+ cities in India**, automated via **Google Apps Script**
 - ⚙️ Automated reporting pipelines using **Google Sheets + Google Apps Script**, cutting manual processing time by 70%
+- 🤖 Uses **Claude, ChatGPT, Perplexity & Ollama** for prompt engineering, data workflows, and AI-assisted analysis
 - 📝 I write about macroeconomics & data on my **[blog](https://atharvamacrolensinsight.blogspot.com/)**
 
 ---
 
 ## 🔧 Tech Stack
 
-### Languages & Data Tools
-![Python](https://skillicons.dev/icons?i=py)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Data Science & ML
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="40"/>
 </p>
 
-`CatBoost` | `XGBoost` | `LightGBM` | `SHAP` | `Optuna` | `SciPy` | `Joblib`
+### Data Science & ML
+`Pandas` | `NumPy` | `SciPy` | `Scikit-learn` | `CatBoost` | `XGBoost` | `LightGBM` | `SHAP` | `Optuna` | `Joblib` | `Jupyter`
 
 ### Visualization & BI
 `Power BI` | `Tableau` | `Looker Studio` | `Matplotlib` | `Seaborn` | `Streamlit`
 
 ### Databases & Backend
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,fastapi&theme=dark" height="40"/>
+</p>
 
-### Automation & AI
-`Prompt Engineering` | `Ollama` | `LLM Integrations` | `Google Apps Script`
+`Pydantic` | `Uvicorn` | `HTTPX` | `Loguru`
+
+### Dev Environment
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logoColor=white"/>
+</p>
+
+`VS Code` | `Antigravity` | `OpenCode`
+
+### AI Tools & LLMs
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logoColor=white"/>
+</p>
+
+`ChatGPT` | `Claude` | `Perplexity` | `Ollama`
 
 ---
 
@@ -60,7 +73,7 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 | Project | Description | Tools |
 |---|---|---|
 | 🏘️ Automated Valuation Model | Multi-method AVM: Comps, Income, Replacement Cost + Hedonic ML (Ridge → CatBoost, XGBoost, LightGBM) with SHAP explainability & Optuna tuning | Python, Scikit-learn, CatBoost, XGBoost, LightGBM, SHAP, Optuna |
-| 🗺️ Property Heatmap Engine | Geographic investment analysis across 500+ locations | Python, Looker Studio, Google Apps Script |
+| 🗺️ Property Heatmap Engine | Geographic investment analysis across 500+ locations in India | Python, Looker Studio, Google Apps Script |
 | 📈 South Asia VAR Study | Macroeconomic interactions across 4 economies (1991–2023) | STATA, MATLAB, Python |
 | 📉 Exchange Rate & Growth | MSc Dissertation — cross-country exchange rate regime analysis | STATA, Econometrics |
 
@@ -68,13 +81,13 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
 
 ## 🎓 Education
 
-- 🎓 **MSc Economics** — University of Nottingham *(Merit 2:1)*
-- 🎓 **BA Economics** — Mumbai University, Wilson College *(9.95 CGPI | 83% | 🏆 1st Rank in Dept)* | Haresh Gohil Memorial Prize
+- 🎓 **MSc Economics** - University of Nottingham *(Merit 2:1)*
+- 🎓 **BA Economics** - Mumbai University, Wilson College *(9.95 CGPI | 83% | 🏆 1st Rank in Dept)* | Haresh Gohil Memorial Prize
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakanthi&theme=default" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakanthi&theme=dark&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff" alt="Atharvakanthi"/>
 </p>
