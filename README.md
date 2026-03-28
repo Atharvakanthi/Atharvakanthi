@@ -2,10 +2,6 @@
 
 ### Data Analyst in Real Estate
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharvakanthi&label=Profile views&color=0e75b6&style=flat" alt="Atharvakanthi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Atharvakanthi" alt="Atharvakanthi" /></a> </p>
-
 - 🔭 I'm currently working on **Data projects in the Vacation home residential Real estate industry.**
 
 - 📫 How to reach me **atharvakanthi.study@gmail.com**
