@@ -45,16 +45,12 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,fastapi&theme=dark" height="40"/>
 </p>
 
-`Pydantic` | `Uvicorn` | `HTTPX` | `Loguru`
-
 ### Dev Environment
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logoColor=white"/>
 </p>
-
-`VS Code` | `Antigravity` | `OpenCode`
 
 ### AI Tools & LLMs
 <p>
@@ -63,8 +59,6 @@ I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and an
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logoColor=white"/>
 </p>
-
-`ChatGPT` | `Claude` | `Perplexity` | `Ollama`
 
 ---
 
