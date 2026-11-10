@@ -29,8 +29,8 @@ I'm a data and business analyst at **Avacasa**, a Bangalore-based PropTech compa
 | [**Property Underwriting Model**](https://github.com/Atharvakanthi/property-underwriting-model) | 7-tab development model with IRR/NPV, exit scenarios and sensitivity grid (illustrative figures) | Excel, Python (openpyxl) |
 | [**BA Case Study: Seller Onboarding**](https://github.com/Atharvakanthi/ba-seller-onboarding-case-study) | BRD, process maps, 12 user stories and KPI framework (illustrative company) | BRD, Mermaid, user stories |
 
-**Dashboards:** [All dashboards](https://atharvakanthi.github.io/dashboards/index.html) · [YouTube intelligence](https://atharvakanthi.github.io/dashboards/youtube.html) · [Dubai sales](https://atharvakanthi.github.io/dashboards/dubai.html) · [Sri Lanka](https://atharvakanthi.github.io/dashboards/sri-lanka.html) · [NYC market](https://atharvakanthi.github.io/dashboards/nyc.html)  
-**Reports:** [Chennai hotels](https://atharvakanthi.github.io/reports/chennai-hotels.html) · [Athimuthlu location report](https://atharvakanthi.github.io/reports/athimuthlu.html)
+**Dashboards:** [All dashboards](https://atharvakanthi.github.io/dashboards/index.html) · [Dubai sales](https://atharvakanthi.github.io/dashboards/dubai-sales.html) · [Sri Lanka workbench](https://atharvakanthi.github.io/dashboards/sri-lanka-market.html) · [NYC market](https://atharvakanthi.github.io/dashboards/nyc-market.html) · [Coorg YouTube](https://atharvakanthi.github.io/dashboards/coorg-youtube.html)
+**Reports:** [Auroville location report](https://atharvakanthi.github.io/reports/auroville-location-report.html) · [Chennai hotel market](https://atharvakanthi.github.io/reports/chennai-hotel-market.html) · [ITC pricing analysis](https://atharvakanthi.github.io/reports/itc-hotel-analysis.html)
 
 ---
 
