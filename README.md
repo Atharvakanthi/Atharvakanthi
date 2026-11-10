@@ -1,87 +1,48 @@
-<h1 align="center">Hi 👋, I'm Atharva Kanthi</h1>
-<h3 align="center">Data Science Associate | Economics × AI × Real Estate | MSc Economics, University of Nottingham</h3>
+<h1 align="center">Atharva Kanthi</h1>
+<h3 align="center">Data Analyst | Business Analyst | Real Estate Market Intelligence</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharva-kanthi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://atharvamacrolensinsight.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
-  <a href="mailto:atharvakanthi.study@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://atharvakanthi.github.io/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/atharva-kanthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:atharvakanthi.study@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 🧭 About Me
+I'm a data and business analyst at **Avacasa**, a Bangalore-based PropTech company, where I lead a **3-person data science team**. I've written **10+ market intelligence reports** across Indian and international second-home markets, and I build the pipelines, scoring frameworks and multi-agent AI workflows behind them. MSc Economics, University of Nottingham.
 
-I'm a **Data Science Associate at Avacasa**, building AI-driven valuation and analytics systems for India's vacation home real estate market. My background bridges **quantitative economics** (MSc, University of Nottingham) with hands-on **data engineering, ML modelling, and automation**.
+- Designed a **multi-agent Data Analyst framework** (LangGraph) that cut report creation from **1 week to 2 days**
+- Built a location scoring framework covering **1,267 locations in 15+ countries**
+- Built a developer discovery pipeline that cut research from a full day to **under 2 hours**
 
-- 🏡 Building a multi-method **Automated Valuation Model (AVM)** combining Comps, Income, Replacement Cost, and a Hedonic ML approach (Ridge baseline → CatBoost, XGBoost, LightGBM) for property price prediction across locations in India
-- 📊 Built **Looker Studio** visualization dashboards for **600+ real estate projects across 50+ cities in India**, automated via **Google Apps Script**
-- ⚙️ Automated reporting pipelines using **Google Sheets + Google Apps Script**, cutting manual processing time by 70%
-- 🤖 Uses **Claude, ChatGPT, Perplexity & Ollama** for prompt engineering, data workflows, and AI-assisted analysis
-- 📝 I write about macroeconomics & data on my **[blog](https://atharvamacrolensinsight.blogspot.com/)**
+**→ [See projects, dashboards and reports on my portfolio](https://atharvakanthi.github.io/)**
 
 ---
 
-## 🔧 Tech Stack
+## Projects
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="40"/>
-</p>
-
-### Data Science & ML
-`Pandas` | `NumPy` | `SciPy` | `Scikit-learn` | `CatBoost` | `XGBoost` | `LightGBM` | `SHAP` | `Optuna` | `Joblib` | `Jupyter`
-
-### Visualization & BI
-`Power BI` | `Tableau` | `Looker Studio` | `Matplotlib` | `Seaborn` | `Streamlit`
-
-### Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,fastapi&theme=dark" height="40"/>
-</p>
-
-### Dev Environment
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logoColor=white"/>
-</p>
-
-### AI Tools & LLMs
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tools |
+| Project | What it shows | Tools |
 |---|---|---|
-| 🏘️ Automated Valuation Model | Multi-method AVM: Comps, Income, Replacement Cost + Hedonic ML (Ridge → CatBoost, XGBoost, LightGBM) with SHAP explainability & Optuna tuning | Python, Scikit-learn, CatBoost, XGBoost, LightGBM, SHAP, Optuna |
-| 🗺️ Property Heatmap Engine | Geographic investment analysis across 500+ locations in India | Python, Looker Studio, Google Apps Script |
-| 📈 South Asia VAR Study | Macroeconomic interactions across 4 economies (1991–2023) | STATA, MATLAB, Python |
-| 📉 Exchange Rate & Growth | MSc Dissertation - cross-country exchange rate regime analysis | STATA, Econometrics |
+| [**Data Analyst Agent**](https://atharvakanthi.github.io/agent.html) | Multi-agent framework that turns an enquiry into a reviewed market report; 1 week → 2 days | Python, LangGraph, pandas, MongoDB |
+| [**Location YouTube Intelligence System**](https://github.com/Atharvakanthi/Location-YouTube-Intelligence-System) | 8-stage pipeline tracking content and sentiment for real-estate micro-markets; 27,000+ videos analysed | Python, LangGraph, SQLite, Pydantic, YouTube Data API |
+| [**NYC Real Estate Market Analysis**](https://github.com/Atharvakanthi/nyc-real-estate-market-analysis) | 667K property sales: cleaning, price per sq ft, YoY trends, rankings, dashboard | SQL (DuckDB, PostgreSQL), Python, Plotly |
+| [**Property Underwriting Model**](https://github.com/Atharvakanthi/property-underwriting-model) | 7-tab development model with IRR/NPV, exit scenarios and sensitivity grid (illustrative figures) | Excel, Python (openpyxl) |
+| [**BA Case Study: Seller Onboarding**](https://github.com/Atharvakanthi/ba-seller-onboarding-case-study) | BRD, process maps, 12 user stories and KPI framework (illustrative company) | BRD, Mermaid, user stories |
+
+**Dashboards:** [Dubai sales](https://atharvakanthi.github.io/dashboards/dubai-sales.html) · [NYC market](https://atharvakanthi.github.io/dashboards/nyc-market.html) · [Sakleshpur search trends](https://atharvakanthi.github.io/dashboards/sakleshpur-google-trends.html) · [Sakleshpur](https://atharvakanthi.github.io/dashboards/sakleshpur-youtube.html), [Coorg](https://atharvakanthi.github.io/dashboards/coorg-youtube.html) and [Chikmagalur](https://atharvakanthi.github.io/dashboards/chikmagalur-youtube.html) YouTube intelligence
 
 ---
 
-## 🎓 Education
+## Tools
 
-- 🎓 **MSc Economics** - University of Nottingham *(Merit 2:1)*
-- 🎓 **BA Economics** - Mumbai University, Wilson College *(9.95 CGPI | 83% | 🏆 1st Rank in Dept)* | Haresh Gohil Memorial Prize
+- **Analysis & BI:** SQL · Excel · Power BI · Tableau · Looker Studio · Plotly
+- **Programming & Data:** Python (pandas, Pydantic, openpyxl) · MongoDB · PostgreSQL · DuckDB · SQLite · Azure SQL · STATA · MATLAB
+- **AI & Automation:** LangGraph · LLM pipelines · FastAPI · Streamlit
+- **Business Analysis:** requirements · BRD · process mapping · user stories · KPI design
 
 ---
 
-## 📊 GitHub Stats
+## Education
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvakanthi&theme=dark&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff" alt="Atharvakanthi"/>
-</p>
+- **MSc Economics**, University of Nottingham (Merit)
+- **BA Economics**, Wilson College, University of Mumbai (9.95 CGPI, First Rank, Haresh Gohil Memorial Prize)
